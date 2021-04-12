@@ -15,6 +15,9 @@ Joi
 
 # Features
 A user can search for a book by name (can either type the entire name or partial name).
+A user can add details of a book into the MongoDB database
+A user can update the price of a book by name and format of the book (can either type the entire/partial name and format of the book).
+A user can delete a book by name (can either type the entire name or partial name).
 
 # Installation
   ## Install a package
